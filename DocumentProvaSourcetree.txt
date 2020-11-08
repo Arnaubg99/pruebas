@@ -1,0 +1,1 @@
+Aquest document es una prova per pujarlo a la stagging area del sourcetree
